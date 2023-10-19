@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "110478548053",
+    "project_id": "nmg-b5b14",
+    "storage_bucket": "nmg-b5b14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110478548053:android:9ea8c7f23ebbab1fda08dc",
+        "android_client_info": {
+          "package_name": "com.nmg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110478548053-40dgpnrrfre6sdgvfrioi7mrsdaft1d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nmg",
+            "certificate_hash": "017807190404b1c51b3ef25c1eb10a2a812ceb9a"
+          }
+        },
+        {
+          "client_id": "110478548053-8i4hv6b9k4ouiebton3m4fgpumoh7tt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaGnWGAM9UR-1Xh2g_WGha_yN18nQDYRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110478548053-8i4hv6b9k4ouiebton3m4fgpumoh7tt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
